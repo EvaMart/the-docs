@@ -5,4 +5,11 @@ theme: just-the-docs
 url: https://EvaMart.github.io/the-docs
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/EvaMart/the-docs
+  Template Repository: https://github.com/EvaMart/the-docs 
+  
+callouts:
+  definition:
+    title: Definition
+    color: blue
+    opacity: 0.3
+
