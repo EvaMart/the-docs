@@ -9,7 +9,7 @@ nav_order: 1
 
 ---
 
-{: .important }
+{: .definition }
 The software can be found and unequivocally identified.
 
 ## F1 - Identity uniqueness 
